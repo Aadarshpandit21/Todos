@@ -1,0 +1,17 @@
+.Increment{
+    background-color:green;
+    padding:10px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.Decrement{
+    background-color:red;
+    padding:10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.countBox{
+    border:2px solid salmon;
+    padding: 10px;
+    margin-top: 20px;
+}
